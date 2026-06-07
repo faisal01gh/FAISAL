@@ -1,5 +1,18 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "mq2h1q39mvn70",
+      "desc": "طكطط",
+      "department": "إدارة تنمية الموارد المالية",
+      "category": "حوكمة",
+      "priority": "عاجل",
+      "status": "جديدة",
+      "followUp": "",
+      "createdAt": 1780757517141,
+      "pinned": false,
+      "actions": []
+    }
+  ],
   "departments": [
     "إدارة تنمية الموارد المالية",
     "إدارة العلاقات العامة والإعلام",
@@ -15,10 +28,11 @@
     "الإدارة المالية"
   ],
   "categories": [
+    "حوكمة",
     "اتفاقيات",
-    "الادارة العليا"
+    "إدارة تشغيلية"
   ],
   "theme": "light",
   "pinHash": "0f6004b615adbb8aec4666409a15fc8ddf8e14eea506cf08a8f3d7385c16fe9d",
-  "updatedAt": 1780806249305
+  "updatedAt": 1780807210952
 }
